@@ -1,0 +1,3 @@
+Personal Finance Buddy is a smart, student-focused budgeting app designed to help users like Priya—a college student managing a tight budget—gain control of their finances. The app simplifies money management through intuitive features such as budget tracking, categorized expense logging, savings goal setting, and personalized money-saving tips.
+
+With built-in spending alerts and insightful summaries, users can monitor their financial habits in real time, avoid overspending, and stay motivated to reach personal goals—like saving up for a concert ticket or a new gadget. Whether it’s managing a part-time income or stretching a monthly allowance, Personal Finance Buddy empowers students to make smarter financial decisions with confidence and ease
